@@ -49,5 +49,7 @@ O código principal está no arquivo `ADC_DisplayC.c`. Ele inclui a configuraç�
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-## Autor
+## video
+
+link: [Link do video](https://youtube.com/shorts/qqFqmbn6B7A?feature=share)
 
